@@ -1,16 +1,52 @@
-## Hi there 👋
+# **Gabriel Cabral de Almeida**
 
-<!--
-**GabrielCabral6/GabrielCabral6** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+
+
+
+
+
+<strong>Quem sou eu ?</strong> 
+
+* Eu sou uma pessoa de **rápido aprendizado**, **objetivo**, and **lógico**.
+
+* Que gosta muito de resolver **desafios** desses que a maioria das pessoas sofrem para resolver.
+
+* Agora procurando novos desafios na area da analise de dados, com muita vontade de aprender e evoluir na area.
+
+
+<br>
+<strong>Algumas das ferramentas que estou habituado.</strong> 🛠
+
+* **Transformação de dados: **SQL**, **Python**(Basico).
+
+* **Data collection** : **Fivetran**(Basico), **GTM**(Basico), **Zapier**(Basico), **Git**(Basico), **DBT**(Basico).
+
+* **Visualização** : **Power BI**, **Looker**, **Excel** e **Google Sheets**.
+
+
+
+
+
+<br>
+
+<strong>Links:</strong>
+
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/gabrielcabralalmeida/)
+
+
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:gabrielcabral060991@gmail.com)
+
+<br>
+
+
+<br>
+
+[![portfolio Badge](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTLtb_cwUU0nUT4TsaKbptPEwKYFvL7j-AmOA&s)](https://ahead-thief-bf8.notion.site/Gabriel-Cabral-de-Almeida-3ff9e5df248744ae96ad8be3fe7dbd5c)
+
+<br>
+
+
