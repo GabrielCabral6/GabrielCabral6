@@ -11,7 +11,7 @@
 
 <strong>Quem sou eu ?</strong> 
 
-* Eu sou uma pessoa de **rápido aprendizado**, **objetivo**, e **lógico**.
+* Eu sou uma pessoa de **rápido aprendizado**, **objetivo** e **lógico**.
 
 * Que gosta muito de resolver **desafios** desses que a maioria das pessoas sofrem para resolver.
 
